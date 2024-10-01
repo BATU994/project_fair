@@ -124,6 +124,7 @@ hr {
 }
 nav li {
   display: flex;
+  font-family:Oswald;
 }
 a {
   text-decoration: none;
